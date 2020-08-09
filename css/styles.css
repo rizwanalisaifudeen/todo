@@ -1,0 +1,20 @@
+.todo1 {
+    padding: 2px;
+    background-color: rosybrown;
+    margin-left: 2rem;
+    font-size: 1rem;
+}
+
+#btn1 {
+    margin-top: 1.5rem;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid blueviolet;
+    background-color: cadetblue;
+    margin: 0 20rem;
+}
